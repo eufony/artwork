@@ -1,10 +1,10 @@
-# Eufony Artwork
+<h1 align="center">Eufony Artwork</h1>
 
 <p align="center">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/eufony/artwork?label=Repo%20Size">
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/eufony/artwork?label=GitHub%20Stars">
-  <img alt="Issues" src="https://img.shields.io/github/issues/eufony/artwork/open?label=Issues">
-  <img alt="License" src="https://img.shields.io/github/license/eufony/artwork?label=License">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/eufony/artwork?label=GitHub%20Stars">
+    <img alt="Issues" src="https://img.shields.io/github/issues/eufony/artwork/open?label=Issues">
+    <img alt="License" src="https://img.shields.io/github/license/eufony/artwork?label=License">
 </p>
 
 - GitHub: https://github.com/eufony/artwork
